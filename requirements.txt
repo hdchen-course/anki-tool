@@ -1,0 +1,3 @@
+anki>=25.0
+genanki>=0.13
+zstandard
