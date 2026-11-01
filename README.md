@@ -22,6 +22,12 @@
 
 - 配色:暖米白(淺)/ 暖炭(深,`.nightMode` 跟隨 Anki 日夜)+ teal 強調 + 下半漸層。
 - 發音:Anki 原生 `[sound:]` 播放鈕(已上 teal 色),實機可播、跨平台穩。
+- 超短單字音(a / the / to / of…)edge-tts 單獨唸會吞音/弱讀成「呃」;`build_cards.py`
+  對「單一 token 且長度 ≤ 4」的 headword 以雙引號孤立送入 TTS(`SHORT_WORD_MAX`),
+  強制完整字典讀音。只改 TTS 輸入字串,檔名仍 = 原字 hash(引用/去重/驗證不變)。
+  既有音檔可用 `regen_short_word_audio.py` 原地補修(不必全量重生)。
+- (選用)音文稽核:裝 `faster-whisper` 後可把每個 mp3 轉文字與卡片文字比對,
+  自動抓出「音檔配錯/唸錯」的卡(ASR round-trip),不需逐張試聽。
 - 視覺設計經眼科(對比 AA、抗光暈)、美術、空間版面三位 reviewer 審過。
 - 設計預覽(含 base64 音檔,可直接雙擊開):`card_preview.html`。
 

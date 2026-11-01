@@ -15,6 +15,10 @@ import asyncio, hashlib, json, os, sys
 import edge_tts
 
 VOICE = "en-US-EmmaMultilingualNeural"
+# 超短 headword(單一 token 且長度 <= 此值)單獨發音時,edge-tts 會吞音/唸成弱讀 schwa
+# (例: "a" 聽起來像「呃」)。以雙引號孤立送入 TTS 可強制完整發出字典讀音。
+# 註:只改「送進 TTS 的文字」,檔名仍 = 原字 hash,故引用/去重/防漂移驗證不受影響。
+SHORT_WORD_MAX = 4
 
 
 def norm(text: str) -> str:
@@ -26,26 +30,36 @@ def audio_name(text: str, voice: str = VOICE) -> str:
     return f"{h}.mp3"
 
 
-async def synth(text: str, path: str):
+def tts_source(text: str, headword: bool = False) -> str:
+    """實際送進 edge-tts 的字串。超短 headword 以雙引號孤立,避免吞音。"""
+    t = norm(text)
+    if headword and " " not in t and len(t) <= SHORT_WORD_MAX:
+        return f'"{t}"'
+    return t
+
+
+async def synth(src_text: str, path: str):
     if os.path.exists(path) and os.path.getsize(path) > 0:
         return
-    await edge_tts.Communicate(norm(text), VOICE).save(path)
+    await edge_tts.Communicate(src_text, VOICE).save(path)
 
 
 async def build(authored_path, out_path, audio_dir):
     os.makedirs(audio_dir, exist_ok=True)
     records = [json.loads(l) for l in open(authored_path, encoding="utf-8")]
 
-    # 收集所有要發音的文字(去重),一次產生
-    want = {}  # text -> filename
+    # 收集所有要產的音檔(以檔名去重),一次產生。
+    # 檔名 = 原字 hash;送進 TTS 的來源字串對超短 headword 會加引號(見 tts_source)。
+    want = {}  # filename -> tts_source_text
     for r in records:
-        for t in [r["headword"]] + [c["example"] for c in r["collocations"]]:
-            want[norm(t)] = audio_name(t)
+        want[audio_name(r["headword"])] = tts_source(r["headword"], headword=True)
+        for c in r["collocations"]:
+            want[audio_name(c["example"])] = tts_source(c["example"])
     sem = asyncio.Semaphore(8)
-    async def one(text, fn):
+    async def one(fn, src):
         async with sem:
-            await synth(text, os.path.join(audio_dir, fn))
-    await asyncio.gather(*(one(t, fn) for t, fn in want.items()))
+            await synth(src, os.path.join(audio_dir, fn))
+    await asyncio.gather(*(one(fn, src) for fn, src in want.items()))
 
     # 寫卡片記錄(含音檔對映)
     with open(out_path, "w", encoding="utf-8") as f:

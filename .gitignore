@@ -7,3 +7,4 @@ audio_pilot/           # pilot 音檔
 downloads/             # 原始碼 bundle 壓縮檔(可重打包)
 __pycache__/
 *.pyc
+.DS_Store

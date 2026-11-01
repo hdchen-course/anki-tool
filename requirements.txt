@@ -1,3 +1,5 @@
 anki>=25.0
 genanki>=0.13
 zstandard
+edge-tts            # build_cards.py 產生音檔(TTS)
+faster-whisper      # (選用)ASR 稽核:驗證音檔內容與卡片文字相符
