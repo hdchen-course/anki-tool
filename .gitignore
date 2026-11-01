@@ -1,2 +1,9 @@
 .venv/
 *.apkg
+# 產物與可重生資源(不進 git):
+build/                 # .apkg 成品(由 build_full_apkg.py 產生)
+audio/                 # 29,921 個 edge-tts mp3(由 build_cards.py 重生)
+audio_pilot/           # pilot 音檔
+downloads/             # 原始碼 bundle 壓縮檔(可重打包)
+__pycache__/
+*.pyc

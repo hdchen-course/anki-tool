@@ -1,0 +1,1598 @@
+{
+ "remove": [
+  {
+   "rank": 3081,
+   "headword": "bastard"
+  },
+  {
+   "rank": 3731,
+   "headword": "prostitute"
+  },
+  {
+   "rank": 4057,
+   "headword": "ass"
+  },
+  {
+   "rank": 4178,
+   "headword": "condom"
+  },
+  {
+   "rank": 4448,
+   "headword": "intercourse"
+  },
+  {
+   "rank": 4538,
+   "headword": "mistress"
+  },
+  {
+   "rank": 5109,
+   "headword": "brassiere"
+  },
+  {
+   "rank": 5120,
+   "headword": "bum"
+  },
+  {
+   "rank": 5318,
+   "headword": "erotic"
+  },
+  {
+   "rank": 5681,
+   "headword": "penis"
+  },
+  {
+   "rank": 5711,
+   "headword": "pornography"
+  },
+  {
+   "rank": 5863,
+   "headword": "sperm"
+  },
+  {
+   "rank": 5958,
+   "headword": "vagina"
+  },
+  {
+   "rank": 5981,
+   "headword": "whore"
+  },
+  {
+   "rank": 6014,
+   "headword": "adultery"
+  },
+  {
+   "rank": 6030,
+   "headword": "anal"
+  },
+  {
+   "rank": 6142,
+   "headword": "cervix"
+  },
+  {
+   "rank": 6369,
+   "headword": "genital"
+  },
+  {
+   "rank": 6429,
+   "headword": "hooker"
+  },
+  {
+   "rank": 6454,
+   "headword": "incest"
+  },
+  {
+   "rank": 6532,
+   "headword": "menstruate"
+  },
+  {
+   "rank": 6548,
+   "headword": "molest"
+  },
+  {
+   "rank": 6567,
+   "headword": "negro"
+  },
+  {
+   "rank": 6574,
+   "headword": "nipple"
+  },
+  {
+   "rank": 6593,
+   "headword": "orgasm"
+  },
+  {
+   "rank": 6624,
+   "headword": "pee"
+  },
+  {
+   "rank": 6916,
+   "headword": "tit"
+  },
+  {
+   "rank": 7125,
+   "headword": "brothel"
+  },
+  {
+   "rank": 7128,
+   "headword": "bullshit"
+  },
+  {
+   "rank": 7380,
+   "headword": "goddam"
+  },
+  {
+   "rank": 7530,
+   "headword": "masturbate"
+  },
+  {
+   "rank": 7583,
+   "headword": "nigger"
+  },
+  {
+   "rank": 8325,
+   "headword": "fag"
+  },
+  {
+   "rank": 8326,
+   "headword": "fart"
+  },
+  {
+   "rank": 8622,
+   "headword": "orgy"
+  },
+  {
+   "rank": 8666,
+   "headword": "pimp"
+  },
+  {
+   "rank": 8849,
+   "headword": "spank"
+  },
+  {
+   "rank": 8917,
+   "headword": "testicle"
+  },
+  {
+   "rank": 9205,
+   "headword": "cum"
+  },
+  {
+   "rank": 9285,
+   "headword": "dyke"
+  },
+  {
+   "rank": 9292,
+   "headword": "ejaculate"
+  },
+  {
+   "rank": 9355,
+   "headword": "fondle"
+  },
+  {
+   "rank": 9676,
+   "headword": "phallus"
+  },
+  {
+   "rank": 9721,
+   "headword": "promiscuous"
+  },
+  {
+   "rank": 9733,
+   "headword": "pubic"
+  },
+  {
+   "rank": 9833,
+   "headword": "slut"
+  },
+  {
+   "rank": 9874,
+   "headword": "swastika"
+  }
+ ],
+ "nonvocab": [
+  {
+   "rank": 1918,
+   "headword": "th"
+  },
+  {
+   "rank": 3070,
+   "headword": "aye"
+  },
+  {
+   "rank": 3267,
+   "headword": "despatch"
+  },
+  {
+   "rank": 3351,
+   "headword": "et"
+  },
+  {
+   "rank": 3633,
+   "headword": "nought"
+  },
+  {
+   "rank": 3917,
+   "headword": "thou"
+  },
+  {
+   "rank": 3984,
+   "headword": "wan"
+  },
+  {
+   "rank": 4075,
+   "headword": "baptist"
+  },
+  {
+   "rank": 4368,
+   "headword": "generals"
+  },
+  {
+   "rank": 4507,
+   "headword": "marines"
+  },
+  {
+   "rank": 4599,
+   "headword": "pa"
+  },
+  {
+   "rank": 4981,
+   "headword": "wee"
+  },
+  {
+   "rank": 5023,
+   "headword": "al"
+  },
+  {
+   "rank": 5031,
+   "headword": "alps"
+  },
+  {
+   "rank": 5458,
+   "headword": "ibid"
+  },
+  {
+   "rank": 5541,
+   "headword": "lo"
+  },
+  {
+   "rank": 5575,
+   "headword": "mega"
+  },
+  {
+   "rank": 5587,
+   "headword": "micro"
+  },
+  {
+   "rank": 5641,
+   "headword": "oscar"
+  },
+  {
+   "rank": 5834,
+   "headword": "sic"
+  },
+  {
+   "rank": 6081,
+   "headword": "basque"
+  },
+  {
+   "rank": 6390,
+   "headword": "guinea"
+  },
+  {
+   "rank": 6555,
+   "headword": "multi"
+  },
+  {
+   "rank": 6720,
+   "headword": "que"
+  },
+  {
+   "rank": 6773,
+   "headword": "rouble"
+  },
+  {
+   "rank": 6794,
+   "headword": "scandinavia"
+  },
+  {
+   "rank": 6905,
+   "headword": "thereof"
+  },
+  {
+   "rank": 6950,
+   "headword": "unix"
+  },
+  {
+   "rank": 6952,
+   "headword": "unto"
+  },
+  {
+   "rank": 7002,
+   "headword": "abc"
+  },
+  {
+   "rank": 7014,
+   "headword": "afore"
+  },
+  {
+   "rank": 7115,
+   "headword": "bolshevik"
+  },
+  {
+   "rank": 7116,
+   "headword": "bon"
+  },
+  {
+   "rank": 7183,
+   "headword": "coli"
+  },
+  {
+   "rank": 7188,
+   "headword": "com"
+  },
+  {
+   "rank": 7315,
+   "headword": "eucharist"
+  },
+  {
+   "rank": 7470,
+   "headword": "kaiser"
+  },
+  {
+   "rank": 7554,
+   "headword": "mod"
+  },
+  {
+   "rank": 7559,
+   "headword": "mongol"
+  },
+  {
+   "rank": 7573,
+   "headword": "nah"
+  },
+  {
+   "rank": 7586,
+   "headword": "nope"
+  },
+  {
+   "rank": 7592,
+   "headword": "ole"
+  },
+  {
+   "rank": 7714,
+   "headword": "pylori"
+  },
+  {
+   "rank": 7768,
+   "headword": "sabine"
+  },
+  {
+   "rank": 7774,
+   "headword": "satan"
+  },
+  {
+   "rank": 7919,
+   "headword": "trans"
+  },
+  {
+   "rank": 7941,
+   "headword": "ultra"
+  },
+  {
+   "rank": 7999,
+   "headword": "zion"
+  },
+  {
+   "rank": 8134,
+   "headword": "casa"
+  },
+  {
+   "rank": 8150,
+   "headword": "circumcize"
+  },
+  {
+   "rank": 8193,
+   "headword": "cossack"
+  },
+  {
+   "rank": 8223,
+   "headword": "dal"
+  },
+  {
+   "rank": 8240,
+   "headword": "deutschmark"
+  },
+  {
+   "rank": 8251,
+   "headword": "dis"
+  },
+  {
+   "rank": 8271,
+   "headword": "doo"
+  },
+  {
+   "rank": 8276,
+   "headword": "dun"
+  },
+  {
+   "rank": 8478,
+   "headword": "intifada"
+  },
+  {
+   "rank": 8486,
+   "headword": "jihad"
+  },
+  {
+   "rank": 8519,
+   "headword": "ling"
+  },
+  {
+   "rank": 8571,
+   "headword": "moi"
+  },
+  {
+   "rank": 8573,
+   "headword": "monde"
+  },
+  {
+   "rank": 8576,
+   "headword": "monsieur"
+  },
+  {
+   "rank": 8677,
+   "headword": "poly"
+  },
+  {
+   "rank": 8681,
+   "headword": "por"
+  },
+  {
+   "rank": 8724,
+   "headword": "qui"
+  },
+  {
+   "rank": 8791,
+   "headword": "sciencefiction"
+  },
+  {
+   "rank": 8815,
+   "headword": "shiite"
+  },
+  {
+   "rank": 8893,
+   "headword": "sur"
+  },
+  {
+   "rank": 8951,
+   "headword": "une"
+  },
+  {
+   "rank": 9214,
+   "headword": "dans"
+  },
+  {
+   "rank": 9371,
+   "headword": "führer"
+  },
+  {
+   "rank": 9491,
+   "headword": "jus"
+  },
+  {
+   "rank": 9499,
+   "headword": "koran"
+  },
+  {
+   "rank": 9587,
+   "headword": "nacional"
+  },
+  {
+   "rank": 9658,
+   "headword": "passover"
+  },
+  {
+   "rank": 9715,
+   "headword": "prix"
+  },
+  {
+   "rank": 9871,
+   "headword": "supra"
+  },
+  {
+   "rank": 9909,
+   "headword": "tong"
+  },
+  {
+   "rank": 9983,
+   "headword": "walkman"
+  },
+  {
+   "rank": 9995,
+   "headword": "yiddish"
+  }
+ ],
+ "reauthor": [
+  {
+   "rank": 2132,
+   "headword": "cheque"
+  },
+  {
+   "rank": 3024,
+   "headword": "alpha"
+  },
+  {
+   "rank": 3322,
+   "headword": "earl"
+  },
+  {
+   "rank": 3377,
+   "headword": "federate"
+  },
+  {
+   "rank": 3452,
+   "headword": "guerilla"
+  },
+  {
+   "rank": 3474,
+   "headword": "homosexual"
+  },
+  {
+   "rank": 4132,
+   "headword": "chap"
+  },
+  {
+   "rank": 4140,
+   "headword": "chuck"
+  },
+  {
+   "rank": 4155,
+   "headword": "cocaine"
+  },
+  {
+   "rank": 4218,
+   "headword": "dale"
+  },
+  {
+   "rank": 4263,
+   "headword": "dissatisfy"
+  },
+  {
+   "rank": 4287,
+   "headword": "dwarf"
+  },
+  {
+   "rank": 4299,
+   "headword": "elf"
+  },
+  {
+   "rank": 4406,
+   "headword": "heroin"
+  },
+  {
+   "rank": 4513,
+   "headword": "massacre"
+  },
+  {
+   "rank": 4684,
+   "headword": "putt"
+  },
+  {
+   "rank": 4688,
+   "headword": "quantum"
+  },
+  {
+   "rank": 4748,
+   "headword": "rove"
+  },
+  {
+   "rank": 4883,
+   "headword": "tee"
+  },
+  {
+   "rank": 4901,
+   "headword": "toddle"
+  },
+  {
+   "rank": 4992,
+   "headword": "witch"
+  },
+  {
+   "rank": 4994,
+   "headword": "wizard"
+  },
+  {
+   "rank": 5024,
+   "headword": "alas"
+  },
+  {
+   "rank": 5042,
+   "headword": "apostle"
+  },
+  {
+   "rank": 5066,
+   "headword": "babe"
+  },
+  {
+   "rank": 5072,
+   "headword": "barb"
+  },
+  {
+   "rank": 5167,
+   "headword": "cleave"
+  },
+  {
+   "rank": 5263,
+   "headword": "diarrhoea"
+  },
+  {
+   "rank": 5313,
+   "headword": "epidemiology"
+  },
+  {
+   "rank": 5324,
+   "headword": "ethnography"
+  },
+  {
+   "rank": 5343,
+   "headword": "fascist"
+  },
+  {
+   "rank": 5419,
+   "headword": "gypsy"
+  },
+  {
+   "rank": 5523,
+   "headword": "lance"
+  },
+  {
+   "rank": 5584,
+   "headword": "metaphysic"
+  },
+  {
+   "rank": 5797,
+   "headword": "sacrament"
+  },
+  {
+   "rank": 5910,
+   "headword": "theologian"
+  },
+  {
+   "rank": 5928,
+   "headword": "tribune"
+  },
+  {
+   "rank": 5941,
+   "headword": "typewrite"
+  },
+  {
+   "rank": 6004,
+   "headword": "aborigine"
+  },
+  {
+   "rank": 6054,
+   "headword": "assay"
+  },
+  {
+   "rank": 6085,
+   "headword": "bereave"
+  },
+  {
+   "rank": 6094,
+   "headword": "blah"
+  },
+  {
+   "rank": 6118,
+   "headword": "cad"
+  },
+  {
+   "rank": 6128,
+   "headword": "carcinoma"
+  },
+  {
+   "rank": 6216,
+   "headword": "dame"
+  },
+  {
+   "rank": 6256,
+   "headword": "distal"
+  },
+  {
+   "rank": 6261,
+   "headword": "dope"
+  },
+  {
+   "rank": 6264,
+   "headword": "drake"
+  },
+  {
+   "rank": 6276,
+   "headword": "ecclesiastic"
+  },
+  {
+   "rank": 6277,
+   "headword": "ecumenical"
+  },
+  {
+   "rank": 6294,
+   "headword": "endoscope"
+  },
+  {
+   "rank": 6299,
+   "headword": "episcopal"
+  },
+  {
+   "rank": 6324,
+   "headword": "fairway"
+  },
+  {
+   "rank": 6340,
+   "headword": "fledge"
+  },
+  {
+   "rank": 6474,
+   "headword": "intone"
+  },
+  {
+   "rank": 6507,
+   "headword": "maggot"
+  },
+  {
+   "rank": 6517,
+   "headword": "manure"
+  },
+  {
+   "rank": 6520,
+   "headword": "mariner"
+  },
+  {
+   "rank": 6710,
+   "headword": "psychoanalyse"
+  },
+  {
+   "rank": 6727,
+   "headword": "rasp"
+  },
+  {
+   "rank": 6770,
+   "headword": "roe"
+  },
+  {
+   "rank": 6782,
+   "headword": "sagebrush"
+  },
+  {
+   "rank": 6891,
+   "headword": "teddy"
+  },
+  {
+   "rank": 6918,
+   "headword": "toad"
+  },
+  {
+   "rank": 6924,
+   "headword": "tort"
+  },
+  {
+   "rank": 6928,
+   "headword": "tramp"
+  },
+  {
+   "rank": 6930,
+   "headword": "transfuse"
+  },
+  {
+   "rank": 6981,
+   "headword": "ware"
+  },
+  {
+   "rank": 7048,
+   "headword": "appropriable"
+  },
+  {
+   "rank": 7076,
+   "headword": "basal"
+  },
+  {
+   "rank": 7081,
+   "headword": "beau"
+  },
+  {
+   "rank": 7088,
+   "headword": "beleaguer"
+  },
+  {
+   "rank": 7089,
+   "headword": "belie"
+  },
+  {
+   "rank": 7106,
+   "headword": "blaspheme"
+  },
+  {
+   "rank": 7113,
+   "headword": "bogey"
+  },
+  {
+   "rank": 7141,
+   "headword": "cant"
+  },
+  {
+   "rank": 7257,
+   "headword": "disaffect"
+  },
+  {
+   "rank": 7282,
+   "headword": "dude"
+  },
+  {
+   "rank": 7292,
+   "headword": "elate"
+  },
+  {
+   "rank": 7308,
+   "headword": "epithelial"
+  },
+  {
+   "rank": 7313,
+   "headword": "esquire"
+  },
+  {
+   "rank": 7343,
+   "headword": "fiver"
+  },
+  {
+   "rank": 7360,
+   "headword": "friar"
+  },
+  {
+   "rank": 7379,
+   "headword": "goblin"
+  },
+  {
+   "rank": 7403,
+   "headword": "heather"
+  },
+  {
+   "rank": 7406,
+   "headword": "heretic"
+  },
+  {
+   "rank": 7410,
+   "headword": "histology"
+  },
+  {
+   "rank": 7413,
+   "headword": "homoeopathy"
+  },
+  {
+   "rank": 7431,
+   "headword": "incontinent"
+  },
+  {
+   "rank": 7439,
+   "headword": "inflect"
+  },
+  {
+   "rank": 7461,
+   "headword": "jacked"
+  },
+  {
+   "rank": 7463,
+   "headword": "jay"
+  },
+  {
+   "rank": 7485,
+   "headword": "lass"
+  },
+  {
+   "rank": 7502,
+   "headword": "loch"
+  },
+  {
+   "rank": 7527,
+   "headword": "marquis"
+  },
+  {
+   "rank": 7534,
+   "headword": "mead"
+  },
+  {
+   "rank": 7578,
+   "headword": "neutrino"
+  },
+  {
+   "rank": 7594,
+   "headword": "ontological"
+  },
+  {
+   "rank": 7619,
+   "headword": "padre"
+  },
+  {
+   "rank": 7621,
+   "headword": "palaeontology"
+  },
+  {
+   "rank": 7648,
+   "headword": "peptide"
+  },
+  {
+   "rank": 7864,
+   "headword": "storey"
+  },
+  {
+   "rank": 7940,
+   "headword": "tyre"
+  },
+  {
+   "rank": 8163,
+   "headword": "colitis"
+  },
+  {
+   "rank": 8218,
+   "headword": "cystic"
+  },
+  {
+   "rank": 8274,
+   "headword": "draught"
+  },
+  {
+   "rank": 8378,
+   "headword": "git"
+  },
+  {
+   "rank": 8402,
+   "headword": "hawking"
+  },
+  {
+   "rank": 8455,
+   "headword": "infarct"
+  },
+  {
+   "rank": 8533,
+   "headword": "lymphocyte"
+  },
+  {
+   "rank": 8826,
+   "headword": "skinhead"
+  },
+  {
+   "rank": 8942,
+   "headword": "twain"
+  },
+  {
+   "rank": 8980,
+   "headword": "whence"
+  },
+  {
+   "rank": 8981,
+   "headword": "wherein"
+  },
+  {
+   "rank": 8982,
+   "headword": "whereupon"
+  },
+  {
+   "rank": 8996,
+   "headword": "yon"
+  },
+  {
+   "rank": 9026,
+   "headword": "ambulate"
+  },
+  {
+   "rank": 9185,
+   "headword": "contra"
+  },
+  {
+   "rank": 9233,
+   "headword": "demob"
+  },
+  {
+   "rank": 9272,
+   "headword": "doth"
+  },
+  {
+   "rank": 9321,
+   "headword": "exchequer"
+  },
+  {
+   "rank": 9346,
+   "headword": "firth"
+  },
+  {
+   "rank": 9373,
+   "headword": "gaol"
+  },
+  {
+   "rank": 9414,
+   "headword": "heathen"
+  },
+  {
+   "rank": 9497,
+   "headword": "kip"
+  },
+  {
+   "rank": 9508,
+   "headword": "leper"
+  },
+  {
+   "rank": 9523,
+   "headword": "loony"
+  },
+  {
+   "rank": 9559,
+   "headword": "methyl"
+  },
+  {
+   "rank": 9576,
+   "headword": "moron"
+  },
+  {
+   "rank": 9585,
+   "headword": "myocardial"
+  },
+  {
+   "rank": 9589,
+   "headword": "nappy"
+  },
+  {
+   "rank": 9639,
+   "headword": "palazzo"
+  },
+  {
+   "rank": 9647,
+   "headword": "panty"
+  },
+  {
+   "rank": 9648,
+   "headword": "pap"
+  },
+  {
+   "rank": 9679,
+   "headword": "physiotherapist"
+  },
+  {
+   "rank": 9687,
+   "headword": "plait"
+  },
+  {
+   "rank": 9770,
+   "headword": "res"
+  },
+  {
+   "rank": 9852,
+   "headword": "springer"
+  },
+  {
+   "rank": 9854,
+   "headword": "stead"
+  },
+  {
+   "rank": 9897,
+   "headword": "terminus"
+  },
+  {
+   "rank": 9987,
+   "headword": "whiting"
+  },
+  {
+   "rank": 9990,
+   "headword": "workhouse"
+  },
+  {
+   "rank": 9993,
+   "headword": "yeoman"
+  }
+ ],
+ "backfill": [
+  {
+   "band_k": 16,
+   "headword": "lea"
+  },
+  {
+   "band_k": 15,
+   "headword": "ion"
+  },
+  {
+   "band_k": 11,
+   "headword": "megahertz"
+  },
+  {
+   "band_k": 11,
+   "headword": "bobby"
+  },
+  {
+   "band_k": 13,
+   "headword": "matt"
+  },
+  {
+   "band_k": 21,
+   "headword": "socio"
+  },
+  {
+   "band_k": 18,
+   "headword": "annum"
+  },
+  {
+   "band_k": 11,
+   "headword": "colonic"
+  },
+  {
+   "band_k": 11,
+   "headword": "artefact"
+  },
+  {
+   "band_k": 14,
+   "headword": "chamberlain"
+  },
+  {
+   "band_k": 11,
+   "headword": "microsystem"
+  },
+  {
+   "band_k": 12,
+   "headword": "faeces"
+  },
+  {
+   "band_k": 12,
+   "headword": "collier"
+  },
+  {
+   "band_k": 13,
+   "headword": "versa"
+  },
+  {
+   "band_k": 16,
+   "headword": "madonna"
+  },
+  {
+   "band_k": 11,
+   "headword": "overs"
+  },
+  {
+   "band_k": 11,
+   "headword": "pip"
+  },
+  {
+   "band_k": 12,
+   "headword": "appellant"
+  },
+  {
+   "band_k": 12,
+   "headword": "inspectorate"
+  },
+  {
+   "band_k": 11,
+   "headword": "scrum"
+  },
+  {
+   "band_k": 14,
+   "headword": "quasi"
+  },
+  {
+   "band_k": 11,
+   "headword": "beck"
+  },
+  {
+   "band_k": 14,
+   "headword": "instalment"
+  },
+  {
+   "band_k": 13,
+   "headword": "bangladesh"
+  },
+  {
+   "band_k": 12,
+   "headword": "croft"
+  },
+  {
+   "band_k": 12,
+   "headword": "capita"
+  },
+  {
+   "band_k": 12,
+   "headword": "hoc"
+  },
+  {
+   "band_k": 11,
+   "headword": "duchy"
+  },
+  {
+   "band_k": 11,
+   "headword": "quo"
+  },
+  {
+   "band_k": 12,
+   "headword": "disbelief"
+  },
+  {
+   "band_k": 14,
+   "headword": "gastrin"
+  },
+  {
+   "band_k": 16,
+   "headword": "vitro"
+  },
+  {
+   "band_k": 14,
+   "headword": "vis"
+  },
+  {
+   "band_k": 17,
+   "headword": "neutron"
+  },
+  {
+   "band_k": 16,
+   "headword": "parte"
+  },
+  {
+   "band_k": 11,
+   "headword": "plasmid"
+  },
+  {
+   "band_k": 12,
+   "headword": "pretence"
+  },
+  {
+   "band_k": 24,
+   "headword": "netware"
+  },
+  {
+   "band_k": 11,
+   "headword": "nepal"
+  },
+  {
+   "band_k": 14,
+   "headword": "intra"
+  },
+  {
+   "band_k": 11,
+   "headword": "coca"
+  },
+  {
+   "band_k": 11,
+   "headword": "parry"
+  },
+  {
+   "band_k": 11,
+   "headword": "snooker"
+  },
+  {
+   "band_k": 12,
+   "headword": "dell"
+  },
+  {
+   "band_k": 13,
+   "headword": "batty"
+  },
+  {
+   "band_k": 11,
+   "headword": "cologne"
+  },
+  {
+   "band_k": 13,
+   "headword": "pseudo"
+  },
+  {
+   "band_k": 14,
+   "headword": "summat"
+  },
+  {
+   "band_k": 13,
+   "headword": "herr"
+  },
+  {
+   "band_k": 12,
+   "headword": "felicity"
+  },
+  {
+   "band_k": 16,
+   "headword": "grange"
+  },
+  {
+   "band_k": 14,
+   "headword": "franked"
+  },
+  {
+   "band_k": 15,
+   "headword": "epistemology"
+  },
+  {
+   "band_k": 13,
+   "headword": "weir"
+  },
+  {
+   "band_k": 11,
+   "headword": "anaesthetic"
+  },
+  {
+   "band_k": 11,
+   "headword": "papillae"
+  },
+  {
+   "band_k": 12,
+   "headword": "sombre"
+  },
+  {
+   "band_k": 11,
+   "headword": "shire"
+  },
+  {
+   "band_k": 11,
+   "headword": "sulphate"
+  },
+  {
+   "band_k": 13,
+   "headword": "willy"
+  },
+  {
+   "band_k": 16,
+   "headword": "burgess"
+  },
+  {
+   "band_k": 14,
+   "headword": "preempt"
+  },
+  {
+   "band_k": 11,
+   "headword": "viola"
+  },
+  {
+   "band_k": 12,
+   "headword": "backbench"
+  },
+  {
+   "band_k": 14,
+   "headword": "bream"
+  },
+  {
+   "band_k": 13,
+   "headword": "postscript"
+  },
+  {
+   "band_k": 12,
+   "headword": "viscount"
+  },
+  {
+   "band_k": 11,
+   "headword": "rune"
+  },
+  {
+   "band_k": 13,
+   "headword": "prima"
+  },
+  {
+   "band_k": 15,
+   "headword": "garde"
+  },
+  {
+   "band_k": 16,
+   "headword": "fife"
+  },
+  {
+   "band_k": 19,
+   "headword": "vivo"
+  },
+  {
+   "band_k": 11,
+   "headword": "cairn"
+  },
+  {
+   "band_k": 14,
+   "headword": "carboniferous"
+  },
+  {
+   "band_k": 12,
+   "headword": "gore"
+  },
+  {
+   "band_k": 13,
+   "headword": "facto"
+  },
+  {
+   "band_k": 13,
+   "headword": "calibre"
+  },
+  {
+   "band_k": 11,
+   "headword": "fro"
+  },
+  {
+   "band_k": 11,
+   "headword": "belle"
+  },
+  {
+   "band_k": 12,
+   "headword": "craven"
+  },
+  {
+   "band_k": 12,
+   "headword": "debenture"
+  },
+  {
+   "band_k": 12,
+   "headword": "rive"
+  },
+  {
+   "band_k": 13,
+   "headword": "oligonucleotide"
+  },
+  {
+   "band_k": 12,
+   "headword": "afro"
+  },
+  {
+   "band_k": 25,
+   "headword": "floruit"
+  },
+  {
+   "band_k": 11,
+   "headword": "finch"
+  },
+  {
+   "band_k": 12,
+   "headword": "biliary"
+  },
+  {
+   "band_k": 11,
+   "headword": "chancery"
+  },
+  {
+   "band_k": 15,
+   "headword": "situ"
+  },
+  {
+   "band_k": 11,
+   "headword": "laird"
+  },
+  {
+   "band_k": 23,
+   "headword": "indo"
+  },
+  {
+   "band_k": 11,
+   "headword": "ventral"
+  },
+  {
+   "band_k": 11,
+   "headword": "householder"
+  },
+  {
+   "band_k": 11,
+   "headword": "adhesion"
+  },
+  {
+   "band_k": 13,
+   "headword": "wilful"
+  },
+  {
+   "band_k": 11,
+   "headword": "revitalise"
+  },
+  {
+   "band_k": 12,
+   "headword": "pram"
+  },
+  {
+   "band_k": 23,
+   "headword": "mortem"
+  },
+  {
+   "band_k": 11,
+   "headword": "sphincter"
+  },
+  {
+   "band_k": 11,
+   "headword": "ere"
+  },
+  {
+   "band_k": 11,
+   "headword": "bi"
+  },
+  {
+   "band_k": 14,
+   "headword": "expiry"
+  },
+  {
+   "band_k": 14,
+   "headword": "scrutinise"
+  },
+  {
+   "band_k": 11,
+   "headword": "alkali"
+  },
+  {
+   "band_k": 11,
+   "headword": "freehold"
+  },
+  {
+   "band_k": 22,
+   "headword": "jupiter"
+  },
+  {
+   "band_k": 11,
+   "headword": "harlequin"
+  },
+  {
+   "band_k": 13,
+   "headword": "gastritis"
+  },
+  {
+   "band_k": 11,
+   "headword": "subset"
+  },
+  {
+   "band_k": 12,
+   "headword": "pancreatitis"
+  },
+  {
+   "band_k": 11,
+   "headword": "domicile"
+  },
+  {
+   "band_k": 12,
+   "headword": "orangutan"
+  },
+  {
+   "band_k": 18,
+   "headword": "facie"
+  },
+  {
+   "band_k": 17,
+   "headword": "chandler"
+  },
+  {
+   "band_k": 11,
+   "headword": "harrier"
+  },
+  {
+   "band_k": 12,
+   "headword": "motility"
+  },
+  {
+   "band_k": 14,
+   "headword": "yoghurt"
+  },
+  {
+   "band_k": 12,
+   "headword": "coeliac"
+  },
+  {
+   "band_k": 12,
+   "headword": "bullock"
+  },
+  {
+   "band_k": 15,
+   "headword": "frau"
+  },
+  {
+   "band_k": 12,
+   "headword": "dodgy"
+  },
+  {
+   "band_k": 12,
+   "headword": "fide"
+  },
+  {
+   "band_k": 14,
+   "headword": "newsagent"
+  },
+  {
+   "band_k": 15,
+   "headword": "trident"
+  },
+  {
+   "band_k": 11,
+   "headword": "spitfire"
+  },
+  {
+   "band_k": 15,
+   "headword": "enthalpy"
+  },
+  {
+   "band_k": 11,
+   "headword": "curate"
+  }
+ ]
+}

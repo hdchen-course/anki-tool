@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<style>
+*{box-sizing:border-box}
+:root{--bg:#ffffff;--ink:#1a1d22;--body:#2b2f36;--soft:#4a4f55;--accent:#1f6a5c;
+ --chip:#d6ece6;--chip-ink:#17584c;--line:#e3e6ea;--ans:#17584c;--blank:#1f6a5c;--border:#e0e3e8}
+html.dark{--bg:#000000;--ink:#f2f4f7;--body:#dfe3e8;--soft:#c7cdd4;--accent:#6fd3bf;
+ --chip:#143a33;--chip-ink:#8fe0cd;--line:#20242b;--ans:#8fe0cd;--blank:#6fd3bf;--border:#262b33}
+html,body{margin:0;height:100%}
+body{background:var(--bg);color:var(--body);font-family:-apple-system,"Helvetica Neue",Arial,"PingFang TC",sans-serif;
+ -webkit-font-smoothing:antialiased;display:flex;flex-direction:column;justify-content:center;
+ min-height:100vh;padding:26px 22px;line-height:1.6}
+.def-front{font-size:25px;font-weight:700;color:var(--ink);text-align:center;line-height:1.45;margin:0 4px 20px}
+.rule{border:none;border-top:1px solid var(--line);margin:18px 0 6px}
+.ex{font-size:21px;color:var(--body);text-align:left;margin:16px 2px;line-height:1.6}
+.blank{display:inline-block;min-width:78px;border-bottom:2.5px solid var(--blank);color:transparent;vertical-align:baseline;margin:0 3px}
+.wordrow{display:flex;align-items:center;justify-content:center;gap:14px;margin:4px 0 10px}
+.word{font-size:48px;font-weight:800;color:var(--accent);letter-spacing:.005em}
+.ipa{font-size:20px;color:var(--ink);text-align:center;margin-bottom:6px;font-variant:tabular-nums}
+.ipa .t{color:var(--soft);font-size:15px}
+.ans{color:var(--ans);font-weight:700}
+.exrow{display:flex;align-items:center;gap:12px;margin:0 2px;padding:10px 0}
+.exrow+.exrow{border-top:1px solid var(--line)}
+.exrow .ex{flex:1;margin:0}
+.rnd{flex:0 0 auto;width:48px;height:48px;border-radius:999px;border:1px solid var(--border);background:var(--chip);color:var(--chip-ink);
+ display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
+.rnd.sm{width:44px;height:44px}
+.ic{width:18px;height:18px;fill:currentColor;position:relative;left:1px}
+</style></head><body><div class="def-front">to discuss something in order to reach an agreement</div><hr class="rule">
+<div class="ex">The two sides met to <span class="blank">______</span> a new deal.</div><div class="ex">Her lawyer helped <span class="blank">______</span> the contract terms.</div></body></html>
