@@ -52,12 +52,22 @@ class AnkiTool:
             raise RuntimeError("No collection loaded. Call load() first.")
 
         output = Path(output_path).resolve()
-        self.col.export_anki_package(
-            out_path=str(output),
-            limit=None,
-            with_scheduling=True,
-            with_media=True,
-        )
+        try:
+            # 新版 API(anki 25.x):options + limit
+            from anki.collection import ExportAnkiPackageOptions
+            self.col.export_anki_package(
+                out_path=str(output),
+                options=ExportAnkiPackageOptions(
+                    with_scheduling=True, with_media=True, legacy=False
+                ),
+                limit=None,  # None = 整個 collection
+            )
+        except (ImportError, TypeError):
+            # 舊版 API 後援
+            self.col.export_anki_package(
+                out_path=str(output), limit=None,
+                with_scheduling=True, with_media=True,
+            )
         print(f"✅ Saved to: {output}")
 
     def close(self):
